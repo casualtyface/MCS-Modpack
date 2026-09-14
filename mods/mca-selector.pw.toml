@@ -1,0 +1,13 @@
+name = "Chunk Editor - MCA-Selector"
+filename = "chunk-editor-fabric-1.3.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xO4qs4xy/versions/lORGuT6h/chunk-editor-fabric-1.3.0.jar"
+hash-format = "sha512"
+hash = "59ceb139a4a6e359818d972b87a84f13115f5cc764c4328da8ee85c7ad9c0ed5d6f4d7e4e8edbd5746bb1dda80560f431b389cfdc32c3aa860ec996292dcb81a"
+
+[update]
+[update.modrinth]
+mod-id = "xO4qs4xy"
+version = "lORGuT6h"

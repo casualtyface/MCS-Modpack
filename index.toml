@@ -1,0 +1,106 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/audioplayer.pw.toml"
+hash = "c50b5a1ac820d673deabfc4daeb791ba69152e40c0b9d1879af5d2b1762bb96a"
+metafile = true
+
+[[files]]
+file = "mods/carpet-tis-addition.pw.toml"
+hash = "10243c8a45cd5e5c321d0f45ed339d42a2af49a3a9e55ee5f5042db156ad431e"
+metafile = true
+
+[[files]]
+file = "mods/carpet.pw.toml"
+hash = "c5ed17434b9f7fa4daa641963566cd3337e1617957d8e77f52d3cb03aafb3b1a"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "8e4512056e448a6f3d1ac179961eb699c15fbe000284e0aee041b5971b417302"
+metafile = true
+
+[[files]]
+file = "mods/datapack-injector.pw.toml"
+hash = "5aa1fec398561f8c07f984c889547227a6b8c782df8afa328f6c80262ffb075a"
+metafile = true
+
+[[files]]
+file = "mods/essential-commands.pw.toml"
+hash = "b194e868d5270d7c6818256ce66399d8465f9045453c4f0982e077fea48995ec"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "37069be1c7d23b2fe463a98297d1f12eb8875f0d3be651a3a6cadc868752ab5a"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "7a7f5673b6e33eebaed00c0c453fc41d11c7474eb320c3ce8736d415fcfe2682"
+metafile = true
+
+[[files]]
+file = "mods/fabricexporter.pw.toml"
+hash = "5b12409e9f0431ac6cb99331290ab8007144293d81a9d0962abbe2e34a7dd551"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
+file = "mods/floodgate.pw.toml"
+hash = "66a12f7cfb7e89c1f10b69973c954190a2046a1b265aeb3faf5f43c7e0951001"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "d43aee10b2376727355eb9f0c4310f9528976c0e00cc105f061761ddd81d3ac4"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a5ee497ec151dd6e6b946091e12e2c56362e5c772c4b8ea175b2e81277cc708d"
+metafile = true
+
+[[files]]
+file = "mods/luckperms.pw.toml"
+hash = "d64cc85b119de64037d894653de4f96822eec9929bcb64eb79871cfe3f78467f"
+metafile = true
+
+[[files]]
+file = "mods/mca-selector.pw.toml"
+hash = "ba8cf7655d353c6394c3fec3ae9deb5a592a86bef0ad17536bdad0a2b14460c2"
+metafile = true
+
+[[files]]
+file = "mods/phantom-spawning.pw.toml"
+hash = "ed887e04d812eb3031e5c286e91dd96277e9d454573c05db5396ae1b709e88a4"
+metafile = true
+
+[[files]]
+file = "mods/sha1runtime.pw.toml"
+hash = "9c2cc0ce6e8700fb145c3d94460d4c821895816a339704f9aa0d07b54491e792"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "a83f944cf699f5c8f179c4fec4c28067f859f7f550e56741df2159878b6dc240"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "efab6a798140d1c23982bf99b27b32f1b79922ae4ac3d9564781cf65630a0d75"
+metafile = true
+
+[[files]]
+file = "mods/unplugged-afk.pw.toml"
+hash = "4a58348b068fa4bfe64b5efe19f4f0a321e62d15e97c49773c1d5816807ce3d4"
+metafile = true
+
+[[files]]
+file = "mods/view-distance-fix.pw.toml"
+hash = "e5190086140b61f2274fe1407195d30f38dba9c4d2adc48e6cb640d1c3428f22"
+metafile = true

@@ -1,0 +1,13 @@
+name = "Custom Server Modpack"
+author = "vik/"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "0240930fd1ab07871ec0ab1e8c04b08bf134c48886c99106cd140fcad160fa66"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.2"
