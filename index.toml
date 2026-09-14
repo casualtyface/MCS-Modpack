@@ -71,11 +71,6 @@ hash = "d64cc85b119de64037d894653de4f96822eec9929bcb64eb79871cfe3f78467f"
 metafile = true
 
 [[files]]
-file = "mods/mca-selector.pw.toml"
-hash = "ba8cf7655d353c6394c3fec3ae9deb5a592a86bef0ad17536bdad0a2b14460c2"
-metafile = true
-
-[[files]]
 file = "mods/phantom-spawning.pw.toml"
 hash = "ed887e04d812eb3031e5c286e91dd96277e9d454573c05db5396ae1b709e88a4"
 metafile = true

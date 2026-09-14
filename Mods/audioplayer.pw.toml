@@ -1,6 +1,6 @@
 name = "AudioPlayer"
 filename = "audioplayer-fabric-2.5.0+26.2.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/SRlzjEBS/versions/7grrYGZg/audioplayer-fabric-2.5.0%2B26.2.jar"

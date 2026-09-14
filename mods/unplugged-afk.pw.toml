@@ -1,6 +1,6 @@
 name = "Unplugged AFK"
 filename = "unplugged_afk-v0.2.5-mc26.2.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/VlR3taCz/versions/r8MH04No/unplugged_afk-v0.2.5-mc26.2.jar"

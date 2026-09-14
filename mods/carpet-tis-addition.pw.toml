@@ -1,6 +1,6 @@
 name = "Carpet TIS Addition"
 filename = "carpet-tis-addition-v1.82.4-mc26.2.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://cdn.modrinth.com/data/jE0SjGuf/versions/lW1s6HL1/carpet-tis-addition-v1.82.4-mc26.2.jar"
