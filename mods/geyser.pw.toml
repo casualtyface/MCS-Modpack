@@ -1,6 +1,6 @@
 name = "Geyser"
 filename = "Geyser-Fabric-2.11.2-b1235.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/wKkoqHrH/versions/WGtIQbdQ/Geyser-Fabric-2.11.2-b1235.jar"

@@ -1,6 +1,6 @@
 name = "Simple Voice Chat Enhanced Groups"
 filename = "enhancedgroups-fabric-1.8.0+26.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1LE7mid6/versions/Zyj7PlwY/enhancedgroups-fabric-1.8.0%2B26.2.jar"

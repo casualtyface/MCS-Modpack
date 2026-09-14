@@ -1,6 +1,6 @@
 name = "FabricExporter"
 filename = "fabricexporter-26.2-1.0.22.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/dbVXHSlv/versions/tuPsGk8g/fabricexporter-26.2-1.0.22.jar"
