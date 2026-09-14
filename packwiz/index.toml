@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "LICENSE"
-hash = "63fd3b4178005a46086b35680fc5cd44e8e9727f34b966b38f23170ba392e105"
-
-[[files]]
-file = "README.md"
-hash = "172631df24aea50cbaa57a375cd2a038026b729de72e8d16090ba7edc4e36078"
-
-[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "c50b5a1ac820d673deabfc4daeb791ba69152e40c0b9d1879af5d2b1762bb96a"
 metafile = true
@@ -74,6 +66,16 @@ hash = "a5ee497ec151dd6e6b946091e12e2c56362e5c772c4b8ea175b2e81277cc708d"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "f3b77573e2e6f89048bf153c1dda8d83426824437a63de049969b1fcf5ba3fe3"
+metafile = true
+
+[[files]]
+file = "mods/loyal-items.pw.toml"
+hash = "1d5dea48e30830a5fb7fc4f88a4f24d656db8e12e6d450bc79fa64a9b3ca11eb"
+metafile = true
+
+[[files]]
 file = "mods/luckperms.pw.toml"
 hash = "d64cc85b119de64037d894653de4f96822eec9929bcb64eb79871cfe3f78467f"
 metafile = true
@@ -101,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "efab6a798140d1c23982bf99b27b32f1b79922ae4ac3d9564781cf65630a0d75"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "b1083983d7ac86c52c1bb1da749f132460c4ee9a8875e76c5244037fc1e0de73"
 metafile = true
 
 [[files]]
