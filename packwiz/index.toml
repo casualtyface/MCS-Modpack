@@ -61,8 +61,13 @@ hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
 metafile = true
 
 [[files]]
-file = "mods/grimac.pw.toml"
-hash = "9c0b1943f9fc8edfd74f67bece271a2510788a52b6258ac186e2209112ba83db"
+file = "mods/floodgate.pw.toml"
+hash = "66a12f7cfb7e89c1f10b69973c954190a2046a1b265aeb3faf5f43c7e0951001"
+metafile = true
+
+[[files]]
+file = "mods/geyser.pw.toml"
+hash = "d43aee10b2376727355eb9f0c4310f9528976c0e00cc105f061761ddd81d3ac4"
 metafile = true
 
 [[files]]
