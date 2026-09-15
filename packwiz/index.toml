@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "62feaecc7c5afcf698c72f5f5edfda9562a2b2b6da30868cd36474c813073348"
+metafile = true
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "c50b5a1ac820d673deabfc4daeb791ba69152e40c0b9d1879af5d2b1762bb96a"
 metafile = true
@@ -23,6 +28,11 @@ metafile = true
 [[files]]
 file = "mods/datapack-injector.pw.toml"
 hash = "5aa1fec398561f8c07f984c889547227a6b8c782df8afa328f6c80262ffb075a"
+metafile = true
+
+[[files]]
+file = "mods/easyauth.pw.toml"
+hash = "481b252ca8137ab69427d8049fa6952c46642d3b153c4be5bb574f40605cf994"
 metafile = true
 
 [[files]]
@@ -58,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/geyser.pw.toml"
 hash = "d43aee10b2376727355eb9f0c4310f9528976c0e00cc105f061761ddd81d3ac4"
+metafile = true
+
+[[files]]
+file = "mods/lightning-grim-anticheat.pw.toml"
+hash = "5ad26ceac393b2021129d5f9a61e0cddfc1a9cc3de9991b762dc5d39008eeb42"
 metafile = true
 
 [[files]]

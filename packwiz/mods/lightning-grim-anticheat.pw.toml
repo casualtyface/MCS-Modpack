@@ -1,0 +1,13 @@
+name = "Lightning Grim Anticheat"
+filename = "grimac-fabric-2.3.74-2.0-0c38eaa.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/yeJMtJfW/versions/sMHgU6nP/grimac-fabric-2.3.74-2.0-0c38eaa.jar"
+hash-format = "sha512"
+hash = "21fbb4f464d7cbfe6a1ca25884ebfa527508355889decd70511b92d3389cf9f862a394089cfd43de7f23a46fa1f86af7895c627fafb2e16ee641df1a63740dcc"
+
+[update]
+[update.modrinth]
+mod-id = "yeJMtJfW"
+version = "sMHgU6nP"
