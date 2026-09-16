@@ -126,6 +126,11 @@ hash = "4a58348b068fa4bfe64b5efe19f4f0a321e62d15e97c49773c1d5816807ce3d4"
 metafile = true
 
 [[files]]
+file = "mods/vanish.pw.toml"
+hash = "72e969ccb04eeb932a4f57fecbfb017bdb78e562cefc65bc5aead7955a0aab5e"
+metafile = true
+
+[[files]]
 file = "mods/view-distance-fix.pw.toml"
 hash = "e5190086140b61f2274fe1407195d30f38dba9c4d2adc48e6cb640d1c3428f22"
 metafile = true
